@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO Game",
+"productVersion": "1.0",
+"dataUrl": "UFO GAME MOD.data.unityweb",
+"asmCodeUrl": "UFO GAME MOD.asm.code.unityweb",
+"asmMemoryUrl": "UFO GAME MOD.asm.memory.unityweb",
+"asmFrameworkUrl": "UFO GAME MOD.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
